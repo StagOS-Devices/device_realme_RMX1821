@@ -136,3 +136,9 @@ $(call inherit-product-if-exists, packages/apps/RealmeParts/parts.mk)
 # Misc
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.software.controls.xml:system/etc/permissions/android.software.controls.xml
+
+# Freeform Multiwindow
+PRODUCT_COPY_FILES += \
+    frameworks/native/data/etc/android.software.freeform_window_management.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.software.freeform_window_management.xml
+
+
