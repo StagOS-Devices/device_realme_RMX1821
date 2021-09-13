@@ -1,0 +1,44 @@
+[
+
+	{
+		"repository": "android_kernel_realme_RMX1821",
+		"target_path": "kernel/realme/RMX1821",
+		"branch": "wip"
+	},
+
+	{
+		"repository": "android_vendor_realme_RMX1821",
+		"target_path": "vendor/realme/RMX1821",
+		"branch": "Q-11"
+	},
+
+	{
+                "repository": "android_device_realme_RMX1821".
+                "targer_path": "device/realme/RMX1821",
+                "branch": "Stag-11"
+        },
+
+	{
+		"repository": "vendor_mediatek_ims",
+		"target_path": "vendor/mediatek/ims",
+		"branch": "eleven"
+	},
+ 
+	{
+		"repository": "vendor_mediatek_interfaces",
+		"target_path": "vendor/mediatek/interfaces",
+		"branch": "eleven"
+	},
+
+        {
+		"repository": "android_packages_apps_RealmeParts"'
+		"target_path": "packages/apps/RealmeParts",
+		"branch": "Q-11"
+	},
+
+        {
+		"repository": "android_packages_apps_RealmeDirac",
+		"target_path": "packages/apps/RealmeDirac",
+		"branch": "master"
+	}
+]
