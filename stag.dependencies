@@ -4,7 +4,7 @@
 		"repository": "CyberTechWorld/android_kernel_realme_RMX1821",
 		"target_path": "kernel/realme/RMX1821",
 		"remote": "github",
-		"branch": "wip"
+		"branch": "test-xi"
 	},
 
 	{
